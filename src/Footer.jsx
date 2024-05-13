@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p> a herf="https://refactored-cod-4jqqppgx7wrv3jq9r.github.dev/"</p>
+      <p><a href="https://github.com/MMabathoN/codespaces-react-1/blob/12ee1a340a16ac5bf0ac26e029429a16086caa30/src/Footer.jsx#L6">Visit repo</a></p>
       <p>© 2024 Weather App</p>
     </footer>
   );
